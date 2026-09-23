@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class PolindromeString {
 
+	//addeddummy commit for PR creation
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
